@@ -20,5 +20,4 @@ class DraggableImageView: UIView {
         // Drawing code
     }
     */
-
 }
